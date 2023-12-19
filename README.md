@@ -1,5 +1,5 @@
 # Web-Search-Project
-Final Project for CS 4250, Web Search &amp; Recommender Systems. Web scraping, parsing, and extracting data from CPP Civil Engineering web page.
+Final Project for CS 4250, Web Search &amp; Recommender Systems. Web scraping, parsing, and extracting data from CPP Civil Engineering web page. Users can search for faculty information regarding education, research interests, or publications. 
 
 ## Prerequisites
 - Python 3.8+
