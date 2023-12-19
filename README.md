@@ -8,13 +8,6 @@ Final Project for CS 4250, Web Search &amp; Recommender Systems. Web scraping, p
 - pymongo
 - Django
 
-## Team
-1. Jonathan Peña
-2. Jessica Ortega
-3. Pablo Dueñas
-4. Sunjay Guttikonda
-5. Loc Nguyen
-
 ## Run Project
 Steps:
 1. cd demo
