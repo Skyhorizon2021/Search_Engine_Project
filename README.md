@@ -7,6 +7,7 @@ Final Project for CS 4250, Web Search &amp; Recommender Systems. Web scraping, p
 - BeautifulSoup
 - pymongo
 - Django
+- Scikit-learn
 
 ## Run Project
 Steps:
